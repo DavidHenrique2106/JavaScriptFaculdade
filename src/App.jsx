@@ -29,7 +29,7 @@ console.log(num1,num2,num3);
 
       <div className="mediaNumeros">
       <hr />
-        <h1>media dos numeros</h1>
+        <h1>média dos numeros</h1>
         <p>{resultado}</p>
         <hr />
       </div>
