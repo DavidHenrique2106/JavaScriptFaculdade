@@ -1,13 +1,13 @@
 
 import './App.css'
-import Aula1 from './pages/Aula1';
+import Aula2 from './pages/aula2/Aula2'
 
 function App() {
 
 
   return (
   
-      <Aula1/>
+        <Aula2/>
   
   )
 }
