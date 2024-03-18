@@ -1,15 +1,15 @@
-
+import react from 'react';
 import './App.css'
-import Aula2 from './pages/aula2/Aula2'
+import Aulass from './pages/Aulas/Aulass';
 
 function App() {
 
 
   return (
   
-        <Aula2/>
+        <Aulass/>
   
   )
 }
 
-export default App
+export default App;
